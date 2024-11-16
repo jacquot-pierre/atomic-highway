@@ -1,0 +1,255 @@
+{
+  "main": {
+    "id": "9fad1e593f81ef5d",
+    "type": "split",
+    "children": [
+      {
+        "id": "05056b46abdf6119",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "92ff56b8115944b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Création de Personange.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Création de Personange"
+            }
+          },
+          {
+            "id": "0dd8c67c4e06f7a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Création de Personange.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Création de Personange"
+            }
+          },
+          {
+            "id": "47e973f915553997",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Création de Personange.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Création de Personange"
+            }
+          },
+          {
+            "id": "5c389b9b54730122",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Création de Personange.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Création de Personange"
+            }
+          },
+          {
+            "id": "7b0fd46843de026a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Création de Personange.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Création de Personange"
+            }
+          },
+          {
+            "id": "38477481b61df2de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Equipements.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Equipements"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3a71375cabb089cc",
+    "type": "split",
+    "children": [
+      {
+        "id": "cc7ae486956f4b10",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d35ac9ce470e021a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorateur de fichiers"
+            }
+          },
+          {
+            "id": "c4a6c24755bfd798",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Rechercher"
+            }
+          },
+          {
+            "id": "04c01288c4f6afca",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Signet"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "eed942e9fa2702f2",
+    "type": "split",
+    "children": [
+      {
+        "id": "67ebd6e8fcea291e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3cb21ce15bd021bc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Equipements.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Rétrolien pour Equipements"
+            }
+          },
+          {
+            "id": "1025508d73a4a998",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Equipements.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Liens sortants de Equipements"
+            }
+          },
+          {
+            "id": "39a29c692067b6e7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Mots-clés"
+            }
+          },
+          {
+            "id": "f962e75676b8b03e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Equipements.md"
+              },
+              "icon": "lucide-list",
+              "title": "Plan de Equipements"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false
+    }
+  },
+  "active": "38477481b61df2de",
+  "lastOpenFiles": [
+    "Création de Personange.md",
+    "Voiture.md",
+    "Voies.md",
+    "Mutations.md",
+    "Pasted image 20241116115408.png",
+    "Pasted image 20241116115500.png",
+    "Origines.md",
+    "Equipements.md",
+    "Compétences.md",
+    "Attributs.md",
+    "Images/Arme1.png",
+    "Images/Arme2.png",
+    "Images/Arme3.png",
+    "Images",
+    "Pasted image 20241116113822.png",
+    "Pasted image 20241116095959.png"
+  ]
+}
